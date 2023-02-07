@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "hloi",
+        "TWODARRAY"
+    ],
+    "files.associations": {
+        "*.html": "html",
+        "new": "cpp",
+        "iosfwd": "cpp",
+        "sstream": "cpp"
+    },
+    "files.insertFinalNewline": true // Needed for webcat
+}
